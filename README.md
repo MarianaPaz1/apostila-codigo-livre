@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-O programa código livre é realizado pela empresa <a href="https://somas.org.br/">SOMAS</a> e tem o intuito de trazer inclusão digital e fomentar a empregabilidade para jovens que estão cumprindo medidas sócio educativas.
+O programa código livre é realizado pela empresa <a href="https://somas.org.br/">SOMAS</a> e tem o intuito de trazer inclusão digital para jovens que estão cumprindo medidas socioeducativa.
 
 
 
